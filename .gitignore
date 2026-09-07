@@ -41,3 +41,8 @@ example
 # generated native folders
 /ios
 /android
+
+# AI assistant config/instructions (not part of the app)
+AGENTS.md
+CLAUDE.md
+.claude/
